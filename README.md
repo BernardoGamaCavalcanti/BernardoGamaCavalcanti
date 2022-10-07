@@ -1,4 +1,4 @@
-- 🤓 Hi, I’m @BernardoGamaCavalcanti
+- 🤓 Hi, I’m Bernardo da Gama Cavalcanti
 - 👀 I’m interested in work with tecnology around the programing with javascript, css and html and learn more if this be necessary
 - 👓 I’m currently learning javascript, css and html to programing front-end but I like Java too and want to learn soon
 - 🔭 I’m looking for jobs in this area to improve my hard skills and meet more people interested in the same things that I
